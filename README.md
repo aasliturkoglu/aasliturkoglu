@@ -25,97 +25,55 @@ Here are some ideas to get you started:
 
 <br clear="right"/>
 
-- 🔭 Şu anda **[Proje/Teknoloji]** üzerinde çalışıyorum
-- 🌱 **[Yeni Öğrendiğin]** öğreniyorum
-- 👯 **Open source** projelerde işbirliğine açığım
-- 💬 Bana **JavaScript, React, Node.js** hakkında sor
-- 📫 Bana ulaş: **[email@example.com]**
-- ⚡ Eğlenceli gerçek: Debug yaparken en iyi fikirler gelir 🐛
+During my Computer Engineering undergraduate studies, I gained experience in both software development and team coordination through participation in technical projects. I served as Scrum Master in university and external game development projects, ensuring teams progressed within Agile processes and managing task tracking using Jira. Additionally, my experience in the e-commerce field allowed me to develop practical skills in manual testing for web applications, working with Postman for API testing, and applying the principles of STLC (Software Testing Life Cycle) and SDLC (Software Development Life Cycle) to deliver high-quality solutions. With an analytical mindset and a strong focus on learning and improving software quality, I am eager to contribute to QA and testing processes.
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Teknoloji Yığınım
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack
 
 <div align="center">
+  
 
-### Front-End
+### Languages & Scripts
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cs,python,c,java&perline=4&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vue,sass&perline=5&theme=dark" />
+### Tools
 
-### 🛠️ Araçlar & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux,postman,npm,webpack,vite&perline=5&theme=dark" />
-
-</div>
-
-<br/>
-
-
-
-## 🌐 Benimle İletişime Geç
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/PROFILIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/KULLANICI_ADIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/KULLANICI_ADIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:EMAIL@example.com)
-
-</div>
-
-### 🧪 Test Otomasyon Araçları
-
-<img src="https://skillicons.dev/icons?i=selenium,cypress,postman,jest,jenkins&perline=5&theme=dark" />
-
-### 💻 Programlama & Script Dilleri
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&perline=5&theme=dark" />
-
-### 📱 Testing Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&perline=5&theme=dark" />
-
-### 🔧 Diğer Araçlar
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,unity,postman&perline=3&theme=dark" />
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🎯 Test Projeleri & Portfolyo
-
-<div align="center">
-
-<a href="https://github.com/KULLANICI_ADIN/selenium-web-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=selenium-web-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&description_lines_count=3" width="49%" />
-</a>
-
-<!--## 🧪 Test Uzmanlık Alanlarım
-
-<div align="center">
-
-| Test Türü | Seviye | Açıklama |
-|-----------|--------|----------|
-| 🔍 **Manuel Test** | ⭐⭐⭐⭐ | Functional, Regression, Smoke Testing |
-| 🤖 **Otomasyon Test** | ⭐⭐⭐ | Selenium, Cypress ile Web Automation |
-| 🌐 **API Testing** | ⭐⭐⭐ | Postman, REST API Testing |
-| 📱 **Mobile Testing** | ⭐⭐ | Android/iOS Manuel Testing |
-| ⚡ **Performance Test** | ⭐⭐ | JMeter ile yük testi |
-| 🗄️ **Database Testing** | ⭐⭐⭐ | SQL sorguları ile veri doğrulama |
-
-</div>-->
-
-## 📚 Sertifikalar & Eğitimler
-
-<div align="center">
-📜 ISTQB Foundation Level (Hazırlanıyor)
-📜 Udemy - Selenium WebDriver with Python (Tamamlandı)
-📜 Coursera - Software Testing Fundamentals (Tamamlandı)
-📜 Postman API Testing Course (Tamamlandı)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
+
+
+## 📚 Certificates & Trainings
+
+- **Udemy** - Software Testing Fundamentals
+- **Udemy** - Postman API Tests *(Ongoing)*
+- **BTK Akademi** - API Tests
+- **BTK Akademi** - Software Testing Fundamentals
+- **Coursera** - Google Project Management
+- **Cisco** - CCNA
+- **Google Game & App Academy** - Unity Game Development
+- 🎯 **ISTQB Foundation Level** *(Goal)*
+
+
+## Projects
+
+<div align="center">
+
+<a href="https://github.com/aasliturkoglu/trello-rest-api-postman">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasliturkoglu&repo=trello-rest-api-postman&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&description_lines_count=3" width="49%" />
+</a>
+
+
+<a href="https://github.com/aasliturkoglu/doctorin-test-case">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aasliturkoglu&repo=doctorin-test-case&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&description_lines_count=3" width="49%" />
+</a>
+
+</div>
+
 
 <!--## 🐛 Yakın Zamanda Bulduğum Buglar
 
@@ -130,24 +88,41 @@ Here are some ideas to get you started:
 
 </div>-->
 
-## 📈 Öğrenme Yol Haritam
+## 📈 My QA Roadmap
 
 <div align="center">
 
-| Adım | Konu | Durum |
+| Step | Topic | Situation |
 |:----:|:-----|:-----:|
-| 1️⃣ | **Manuel Test Temelleri** | ✅ Tamamlandı |
-| 2️⃣ | **Test Araçları** (Jira, Postman, SQL) | 🔄 Devam Ediyor |
-| 3️⃣ | **Programlama** (Python/JavaScript) | ⏳ Başlayacak |
-| 4️⃣ | **Test Otomasyonu** (Selenium/Cypress) | ⏳ Başlayacak |
-| 5️⃣ | **CI/CD & Performance Testing** | ⏳ Başlayacak |
-| 6️⃣ | **Senior QA Engineer** 🎯 | ⏳ Hedef |
+| 1️⃣ | **Manuel Testing Foundations** | ✅ Completed |
+| 2️⃣ | **API Testing** (Postman, RestAPI) | 🔄 In progress |
+| 3️⃣ | **SQL** (Database) | ⏳ Upcoming |
+| 4️⃣ | **Test Automation** (Selenium/Cypress) | ⏳ Upcoming |
+| 5️⃣ | **Performance Testing** | ⏳ Upcoming |
 
 </div>
 
-**Şu Anki Seviyem:** 🔧 Test Araçları → 💻 Programlama
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aasliturkoglu">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
+</a>
+
+<a href="mailto:aasliturkoglu@hotmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
+</a>
+
+<a href="https://github.com/aasliturkoglu">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="60" />
+</a>
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=📧+aasliturkoglu@hotmail.com;" alt="Contact Info" />
 
 </div>
+
 
 
 
