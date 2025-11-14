@@ -106,15 +106,15 @@ During my Computer Engineering undergraduate studies, I gained experience in bot
 
 <div align="center">
 
-<a href="https://linkedin.com/in/aasliturkoglu">
+<a href="https://linkedin.com/in/aasliturkoglu" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
 </a>
 
-<a href="mailto:aasliturkoglu@hotmail.com">
+<a href="mailto:aasliturkoglu@hotmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
 </a>
 
-<a href="https://github.com/aasliturkoglu">
+<a href="https://github.com/aasliturkoglu" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="60" />
 </a>
 <br/><br/>
