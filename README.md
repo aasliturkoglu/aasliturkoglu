@@ -44,18 +44,21 @@ During my Computer Engineering undergraduate studies, I gained experience in bot
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+
 </div>
 
 
 ## 📚 Certificates & Trainings
 
-- **Udemy** - Software Testing Fundamentals
+- **Udemy** - [Software Testing Fundamentals](https://www.udemy.com/certificate/UC-3878b2cc-cf1d-4fe2-8a5a-61863b0e97c4/)
 - **Udemy** - Postman API Tests *(Ongoing)*
-- **BTK Akademi** - API Tests
-- **BTK Akademi** - Software Testing Fundamentals
-- **Coursera** - Google Project Management
-- **Cisco** - CCNA
-- **Google Game & App Academy** - Unity Game Development
+- **BTK Akademi** - [API Tests](https://drive.google.com/file/d/1G0JFjWi2pEeGxbuOK40Uadi97ybZGYxv/view?usp=sharing)
+- **BTK Akademi** - [Software Testing Fundamentals](https://drive.google.com/file/d/1DQ2Ykpb3GM619EgHZQvqHpF6qFYpzccd/view?usp=sharing)
+- **BTK Akademi** - [Python Programming](https://drive.google.com/file/d/1dKOEvw2hk9bQamm_SY1zIEVTXM-cquXW/view?usp=sharing)
+- **Coursera** - [Google Project Management](https://www.credly.com/badges/6f29408c-76e9-4496-ac82-2c3d4b88c5fe/public_url)
+- **Cisco** - [CCNA](https://www.credly.com/badges/e09b99a6-e719-4d37-9289-2415eb8dc1ea/public_url)
+- **Google Game & App Academy** - [Unity Game Development](https://verified.sertifier.com/en/verify/78026813492093/)
+- **TRAI** - [PowerBI and Data Analysis](https://drive.google.com/file/d/1OR1W4iCEUxggWXK9PZknWWI2huTsiQjI/view?usp=sharing)
 - 🎯 **ISTQB Foundation Level** *(Goal)*
 
 
@@ -95,7 +98,7 @@ During my Computer Engineering undergraduate studies, I gained experience in bot
 | Step | Topic | Situation |
 |:----:|:-----|:-----:|
 | 1️⃣ | **Manuel Testing Foundations** | ✅ Completed |
-| 2️⃣ | **API Testing** (Postman, RestAPI) | 🔄 In progress |
+| 2️⃣ | **API Tests** (Postman, RestAPI) | 🔄 In progress |
 | 3️⃣ | **SQL** (Database) | ⏳ Upcoming |
 | 4️⃣ | **Test Automation** (Selenium/Cypress) | ⏳ Upcoming |
 | 5️⃣ | **Performance Testing** | ⏳ Upcoming |
